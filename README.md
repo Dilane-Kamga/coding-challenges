@@ -13,7 +13,7 @@ To get started with the challenges:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/coding-challenges.git
+    git clone https://github.com/Dilane-Kamga/coding-challenges.git
     cd coding-challenges
     ```
 
